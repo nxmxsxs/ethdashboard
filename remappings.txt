@@ -1,0 +1,10 @@
+@openzeppelin/contracts-upgradeable/=.foundry/lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts/=.foundry/lib/openzeppelin-contracts/contracts/
+ds-test/=.foundry/lib/solmate/lib/ds-test/src/
+erc4626-tests/=.foundry/lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=.foundry/lib/forge-std/src/
+openzeppelin-contracts-upgradeable/=.foundry/lib/openzeppelin-contracts-upgradeable/
+openzeppelin-contracts/=.foundry/lib/openzeppelin-contracts/
+openzeppelin-foundry-upgrades/=.foundry/lib/openzeppelin-foundry-upgrades/src/
+solidity-stringutils/=.foundry/lib/openzeppelin-foundry-upgrades/lib/solidity-stringutils/
+solmate/=.foundry/lib/solmate/src/
