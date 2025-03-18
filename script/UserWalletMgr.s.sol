@@ -27,11 +27,12 @@ contract UserWalletMgrUpgradeScript is Script {
     function run() public {
         vm.startBroadcast();
 
-
+        // address proxy = address(vm.envString("VITE_ANVIL_USER_WALLET_MGR_PROXY"));
         address proxy = address(0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512);
         Upgrades.upgradeProxy(proxy, "UserWalletMgrV4.sol:UserWalletMgrV4", "");
 
         UserWalletMgrV4 mgr = UserWalletMgrV4(proxy);
+        // ...
 
         vm.stopBroadcast();
     }
