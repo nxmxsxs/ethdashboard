@@ -1,0 +1,15 @@
+export { default as ChevronUpIcon } from 'lucide-solid/icons/chevron-up';
+export { default as ChevronDownIcon } from 'lucide-solid/icons/chevron-down';
+export { default as ChevronRightIcon } from 'lucide-solid/icons/chevron-right';
+export { default as ChevronLeftIcon } from 'lucide-solid/icons/chevron-left';
+export { default as CreditCardIcon } from 'lucide-solid/icons/credit-card';
+export { default as LogOutIcon } from 'lucide-solid/icons/log-out';
+export { default as MailIcon } from 'lucide-solid/icons/mail';
+export { default as MessageSquareIcon } from 'lucide-solid/icons/message-square';
+export { default as PlusCircleIcon } from 'lucide-solid/icons/plus-circle';
+export { default as SettingsIcon } from 'lucide-solid/icons/settings';
+export { default as UserIcon } from 'lucide-solid/icons/user';
+export { default as UserPlusIcon } from 'lucide-solid/icons/user-plus';
+export { default as XIcon } from 'lucide-solid/icons/x';
+export { default as CheckIcon } from 'lucide-solid/icons/check';
+export { default as ArrowUpDownIcon } from 'lucide-solid/icons/arrow-up-down';

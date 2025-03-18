@@ -29,3 +29,4 @@ dist-ssr
 
 # foundry
 .foundry/
+/src/lib/eth/abi.ts
